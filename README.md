@@ -2,6 +2,7 @@
 
 - The Composable Architecture 
 - QualityCoding Test Suites
+- Codeslicing SwiftUI Preview Harness
 
 # Installation
 
